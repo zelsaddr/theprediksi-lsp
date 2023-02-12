@@ -3,11 +3,11 @@ import { useLocation, Link } from "react-router-dom";
 const Navbar2 = () => {
   const menu2 = [
     {
-      name: "Home",
+      name: "Beranda",
       url: "/",
     },
     {
-      name: "Profile",
+      name: "Profil",
       url: "/profile",
     },
     {

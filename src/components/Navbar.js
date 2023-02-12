@@ -7,7 +7,7 @@ const Navbar = () => {
       url: "/artikel",
     },
     {
-      name: "Event",
+      name: "Acara",
       url: "/event",
     },
     {
@@ -15,7 +15,7 @@ const Navbar = () => {
       url: "/galeri",
     },
     {
-      name: "Partner",
+      name: "Mitra",
       url: "/partner-kami",
     },
   ];

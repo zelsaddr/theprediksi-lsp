@@ -1,7 +1,7 @@
 const Profile = () => {
   return (
     <>
-      <h4 className="font-bold text-2xl p-1 italic mb-5 mr-8">Profile</h4>
+      <h4 className="font-bold text-2xl p-1 italic mb-5 mr-8">Profil</h4>
       <article className="p-4 rounded-md border border-slate-300">
         <img className="object-cover w-screen h-52 rounded-lg" src="/2.jpeg" alt="Article" />
         <h2 className="text-2xl font-bold mb-2 italic mt-4">Filosofi</h2>

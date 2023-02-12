@@ -1,7 +1,7 @@
 const Partner = () => {
   return (
     <>
-      <h4 className="font-bold text-2xl p-1 italic mb-5 mr-8">Partner Kami</h4>
+      <h4 className="font-bold text-2xl p-1 italic mb-5 mr-8">Mitra Kami</h4>
       <div className="flex justify-around space-x-3">
         <div className="sm:w-1/2 lg:w-4/12">
           <div className="bg-slate-600 rounded overflow-hidden shadow-lg">
